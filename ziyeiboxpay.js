@@ -51,9 +51,9 @@ boxjs链接  https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zi
 登录笑谱(在登录状态就退出，重新登录)  获取更新TOKEN
 refreshtokenVal 👉XP_refreshTOKEN
 设置任务 可设置 0 1 2    0开视频关直播 1开视频开直播 2关视频开直播
- LIVE  👉  XP_live
+ LIVE  👉  XP_live=1
 设置提现金额 可设置 0 1 15 30 50 100  默认0关闭
-CASH  👉  XP_CASH
+CASH  👉  XP_CASH=1
 设置手机号 
  phone  👉  XP_phone
 设置验证码   默认0关闭获取token功能
